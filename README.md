@@ -26,16 +26,6 @@
 ### Simple UI
 
 ### While taking Image
-![Frame 1](https://github.com/Arkinsor/Face-recognition-attendance-system/assets/103091817/175ae700-17fc-4266-a056-5a6033f58a48)
-
-
-
-## While taking Attendance
 ![Frame 1](https://github.com/Arkinsor/Face-recognition-attendance-system/assets/103091817/2bd773ed-d2bd-4fdc-88c8-30a8fee02987)
 
-
-
-## Attendance in tabular format 
-<img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
-
-## Just follow me and Star⭐ my repository
+### While taking Attendance
