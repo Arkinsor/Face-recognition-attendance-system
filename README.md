@@ -26,10 +26,12 @@
 ### Simple UI
 
 ### While taking Image
-![Screenshot (103)]()
+![WIN_20231212_09_14_50_Pro](https://github.com/Arkinsor/Face-recognition-attendance-system/assets/103091817/b698bad9-c7c5-47b5-98e9-d6a7f1ef8b30)
+
 
 ## While taking Attendance
 ![Screenshot (91)](https://user-images.githubusercontent.com/26384517/86821090-9465ea80-c0a7-11ea-9680-777923663d0c.png)
+
 
 ## Attendance in tabular format 
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
