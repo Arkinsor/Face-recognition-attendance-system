@@ -29,3 +29,4 @@
 ![Frame 1](https://github.com/Arkinsor/Face-recognition-attendance-system/assets/103091817/2bd773ed-d2bd-4fdc-88c8-30a8fee02987)
 
 ### While taking Attendance
+![Frame 1](https://github.com/Arkinsor/Face-recognition-attendance-system/assets/103091817/100cb4dc-c23d-452d-b779-215d4943fa7a)
