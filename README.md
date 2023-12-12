@@ -26,7 +26,8 @@
 ### Simple UI
 
 ### While taking Image
-![WIN_20231212_09_14_50_Pro](https://github.com/Arkinsor/Face-recognition-attendance-system/assets/103091817/b698bad9-c7c5-47b5-98e9-d6a7f1ef8b30)
+![Frame 1](https://github.com/Arkinsor/Face-recognition-attendance-system/assets/103091817/175ae700-17fc-4266-a056-5a6033f58a48)
+
 
 
 ## While taking Attendance
