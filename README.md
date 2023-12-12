@@ -31,7 +31,8 @@
 
 
 ## While taking Attendance
-![Screenshot (91)](https://user-images.githubusercontent.com/26384517/86821090-9465ea80-c0a7-11ea-9680-777923663d0c.png)
+![Frame 1](https://github.com/Arkinsor/Face-recognition-attendance-system/assets/103091817/2bd773ed-d2bd-4fdc-88c8-30a8fee02987)
+
 
 
 ## Attendance in tabular format 
